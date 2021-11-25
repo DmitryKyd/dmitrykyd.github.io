@@ -40,9 +40,6 @@ body {
 .w-100 {
 	min-width: 100vw!important;
 }
-.pikcha img {
-	height: 450px!important;
-}
 .footer-copyright {
     overflow: hidden;
     background-color: rgba(14,25,79,.2);
